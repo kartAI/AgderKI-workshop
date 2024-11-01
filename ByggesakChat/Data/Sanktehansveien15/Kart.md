@@ -1,0 +1,1 @@
+https://www.arealplaner.no/4204/arealplaner/1156/fullskjerm?knr=4204&gnr=430&bnr=201
