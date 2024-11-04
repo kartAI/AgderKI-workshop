@@ -30,7 +30,7 @@ Oppgaver:
 1. Klarer du lage et kart med andre punkter?
 1. Klarer du endre størrelsen
 
-**Screenshots**
+![alt text](chrome_vsSQxIxW1x.gif)
 
 # Befolkningsanalyser
 
