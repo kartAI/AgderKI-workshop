@@ -7,8 +7,8 @@ I denne workshopen skal vi utforske hvordan gjøre geografiske analyser med Agde
 ## Teknisk oppsett
 AgderKI kan ikke _kjøre_ kode enda. Derfor skal vi kjøre koden i et gratis, midlertidig, miljø fra Google som heter Google Colab. Du må ha en Gmail, eller Google-konto for at det skal fungere. Datasettene vi skal bruke er hentet fra GeoNorge.no, eller fra andre åpne datakilder. 
 
-* Åpne en nettleser med (Google Colab)[https://colab.research.google.com/] og logg inn
-* Åpne et nytt vindu i nettleseren med (AgderKI)[https://agderki.egde.io/]
+* Åpne en nettleser med [Google Colab](https://colab.research.google.com/) og logg inn
+* Åpne et nytt vindu i nettleseren med [AgderKI](https://agderki.egde.io/)
 
 # Lag et kart av geografiske data
 
