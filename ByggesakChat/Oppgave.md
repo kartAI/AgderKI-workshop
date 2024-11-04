@@ -1,14 +1,14 @@
 # Byggesak Chat
 
 
-For å fylle ut en byggesøknadd riktig så må man tolk lokale reguleringsplaner, noe som kan være utfordrende for mange. KI kan være et godt vektøy for å tolke, forenkle og oppsumere reguleringsplaner. 
+For å fylle ut en byggesøknad riktig så må man tolk lokale reguleringsplaner, noe som kan være utfordrende for mange. KI kan være et godt verktøy for å tolke, forenkle og oppsummere reguleringsplaner. 
 
 
 ## Data:
-Under mappen "Data" ligger det to undermapper som inneholder data fra to byggesaker i Kristiansand (all infomrasjonen er offentlig tilgjengelig).
+Under mappen "Data" ligger det to undermapper som inneholder data fra to byggesaker i Kristiansand (all informasjon er offentlig tilgjengelig).
 Under hver byggesak ligger følgende:
-- Reguleringsplan - Dette er den gjellende reguleringsplanen for byggesaken
-- Søknad - Dette er byggesøknadden 
+- Reguleringsplan - Dette er den gjeldende reguleringsplanen for byggesaken
+- Søknad - Dette er byggesøknaden 
 - kart - Dette er en fil som inneholder en link til plankartet (kan inneholde nyttig informasjon)
 
 
