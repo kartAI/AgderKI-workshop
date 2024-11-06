@@ -4,6 +4,8 @@ Visste du at språkmodeller kan programmere? De er faktisk ganske gode på det o
  
 I denne workshopen skal vi utforske hvordan gjøre geografiske analyser med Agder KI. Vi skal bruke åpne geografiske datasett - prøve ut ulike teknikker for "prompting", og kjøre analysekoden som AgderKI lager til oss. 
 
+[Jupyter Notebook (Google Colab) med eksempel på resultater](https://colab.research.google.com/drive/1LDSk_ntIyLZbRSsxH10gNd9l20xDnbD3?usp=sharing)
+
 ## Teknisk oppsett
 AgderKI kan ikke _kjøre_ kode enda. Derfor skal vi kjøre koden i et gratis, midlertidig, miljø fra Google som heter Google Colab. Du må ha en Gmail, eller Google-konto for at det skal fungere. Datasettene vi skal bruke er hentet fra GeoNorge.no, eller fra andre åpne datakilder. 
 
